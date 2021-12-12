@@ -36,6 +36,6 @@ A collection of all resources needed to run macOS Monterey on a Dell XPS 15 9570
 | USBPorts | ? |
 | VerbStub | 1.0.3 |
 
-## 🗄 Acknowledgments
+## 🗄 Sources
 - https://github.com/jaromeyer/XPS9570-Catalina
 - https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html
