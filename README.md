@@ -15,7 +15,7 @@ A collection of all resources needed to run macOS Monterey on a Dell XPS 15 9570
 | WiFi / Bluetooth | BCM94360NG |
 
 ## ⚙️ Software
-| Boot loader | OpenCore v0.7.9 |
+| Boot loader | OpenCore v0.8.0 |
 | :- | :- |
 | BIOS | 1.23 |
 | CFG Lock | Unlocked |
@@ -25,10 +25,10 @@ A collection of all resources needed to run macOS Monterey on a Dell XPS 15 9570
 | :- | :- |
 | Lilu | 1.6.0 |
 | VirtualSMC | 1.2.9 |
-| CPUFriend | 1.2.4 |
-| AppleALC | 1.7.0 |
+| CPUFriend | 1.2.5 |
+| AppleALC | 1.7.1 |
 | VoodooI2C | 2.7.0 |
-| VoodooPS2Controller | 2.2.8 |
+| VoodooPS2 | 2.2.8 |
 | AirportBrcmFixup | 2.1.4 |
 | BrcmPatchRAM | 2.6.1 |
 | WhateverGreen | 1.5.8 |
