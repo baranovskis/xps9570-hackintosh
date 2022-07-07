@@ -29,7 +29,7 @@ A collection of all resources needed to run macOS Monterey on a Dell XPS 15 9570
 | VirtualSMC | 1.2.9 |
 | CPUFriend | 1.2.5 |
 | AppleALC | 1.7.2 |
-| VoodooI2C | 2.7.0 |
+| VoodooI2C | 2.6.5 (downgraded) |
 | VoodooPS2 | 2.2.8 |
 | AirportBrcmFixup | 2.1.5 |
 | BrcmPatchRAM | 2.6.2 |
